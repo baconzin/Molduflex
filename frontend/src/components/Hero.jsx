@@ -100,8 +100,8 @@ export const Hero = () => {
             <div className="relative">
               <div className="absolute -inset-4 bg-gradient-to-r from-molduflex-orange/10 to-transparent rounded-3xl blur-2xl" />
               <img
-                src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=80"
-                alt="Arquitetura moderna com acabamentos de qualidade"
+                src="https://images.unsplash.com/photo-1720036236694-d0a231c52563?w=800&q=80"
+                alt="Chão de fábrica Molduflex com maquinário industrial"
                 className="relative rounded-2xl shadow-2xl w-full h-[400px] lg:h-[500px] object-cover"
               />
               {/* Floating Badge */}
