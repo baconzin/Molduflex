@@ -158,6 +158,12 @@ export const Galeria = () => {
       {/* Lightbox Dialog */}
       <Dialog open={!!selectedImage} onOpenChange={closeLightbox}>
         <DialogContent className="max-w-5xl w-full p-0 bg-transparent border-none shadow-none">
+          <VisuallyHidden>
+            <DialogTitle>Visualização de imagem da galeria</DialogTitle>
+            <DialogDescription>
+              {selectedImage ? selectedImage.title : "Imagem do projeto"}
+            </DialogDescription>
+          </VisuallyHidden>
           <AnimatePresence mode="wait">
             {selectedImage && (
               <motion.div
