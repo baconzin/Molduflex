@@ -47,10 +47,10 @@ export const Hero = () => {
             />
             
             <h1 className="text-4xl sm:text-5xl lg:text-6xl xl:text-7xl font-bold tracking-tight text-gray-900 leading-[1.1] mb-6">
-              Transforme sua{" "}
-              <span className="text-molduflex-orange">obra</span> em{" "}
+              Fabricamos os{" "}
+              <span className="text-molduflex-orange">melhores</span> produtos{" "}
               <span className="relative inline-block">
-                realidade
+                do mercado
                 <motion.span
                   className="absolute -bottom-2 left-0 w-full h-1 bg-molduflex-orange rounded-full"
                   initial={{ scaleX: 0 }}
@@ -61,9 +61,9 @@ export const Hero = () => {
             </h1>
             
             <p className="text-lg md:text-xl text-gray-600 leading-relaxed mb-10 max-w-xl">
-              Materiais de construção e acabamentos de alto padrão. 
-              Climatização, revestimentos, tintas e muito mais para 
-              projetos que inspiram.
+              Somos fábrica e distribuidora de soluções inteligentes para 
+              construção civil. Da produção à entrega, garantimos qualidade 
+              e inovação em cada produto.
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4">
