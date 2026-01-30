@@ -15,9 +15,9 @@ function App() {
       <Navbar />
       <main>
         <Hero />
+        <OndeEncontrar />
         <Diferenciais />
         <Produtos />
-        <OndeEncontrar />
         <Galeria />
         <Sobre />
       </main>
