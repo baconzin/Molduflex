@@ -4,6 +4,7 @@ import { Hero } from "./components/Hero";
 import { Diferenciais } from "./components/Diferenciais";
 import { Produtos } from "./components/Produtos";
 import { Galeria } from "./components/Galeria";
+import { OndeEncontrar } from "./components/OndeEncontrar";
 import { Sobre } from "./components/Sobre";
 import { Footer } from "./components/Footer";
 import { WhatsAppButton } from "./components/WhatsAppButton";
