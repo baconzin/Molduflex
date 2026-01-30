@@ -17,6 +17,7 @@ function App() {
         <Hero />
         <Diferenciais />
         <Produtos />
+        <OndeEncontrar />
         <Galeria />
         <Sobre />
       </main>
