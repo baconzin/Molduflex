@@ -4,8 +4,10 @@ import { X, ChevronLeft, ChevronRight } from "lucide-react";
 import {
   Dialog,
   DialogContent,
-  DialogOverlay,
+  DialogTitle,
+  DialogDescription,
 } from "../components/ui/dialog";
+import { VisuallyHidden } from "@radix-ui/react-visually-hidden";
 
 const galeriaImages = [
   {
