@@ -8,6 +8,7 @@ const navigation = [
   { name: "Início", href: "#hero" },
   { name: "Diferenciais", href: "#diferenciais" },
   { name: "Produtos", href: "#produtos" },
+  { name: "Onde Encontrar", href: "#onde-encontrar" },
   { name: "Galeria", href: "#galeria" },
   { name: "Sobre", href: "#sobre" },
 ];
